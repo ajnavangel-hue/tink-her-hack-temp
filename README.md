@@ -2,7 +2,7 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# Study Planner 🎯
+# Focus Flow 🎯
 
 ## Basic Details
 
@@ -10,15 +10,15 @@
 
 ### Team Members
 - Member 1: Ajna V Angel - Lurdes Matha College of Science and Technology
-- Member 2: Kavya AS -  Lurdes Matha College of Science and Technology
+- Member 2: Kavya AS - Lurdes Matha College of Science and Technology
 
 ### Hosted Project Link
-[mention your project hosted link here]
+[Add your hosted project link here]
 
 ### Project Description
 Focus Flow is a smart study planner designed to help students organize their daily study schedules efficiently. It enables users to set goals, manage subjects, track progress, and receive timely reminders to improve focus, productivity, and academic performance.
 
-### The Problem statement
+### The Problem Statement
 Many students struggle with poor time management, lack of focus, and unorganized study schedules, which leads to stress, procrastination, and low productivity. Existing tools are either too complex or not specifically designed for students’ academic needs.
 
 Focus Flow solves this by providing a simple, structured, and student-friendly study planning system that helps them manage subjects, track progress, and stay consistent. 💛📚
@@ -26,13 +26,10 @@ Focus Flow solves this by providing a simple, structured, and student-friendly s
 ### The Solution
 Focus Flow solves the problem by:
 
-Letting students create personalized study schedules for each subject.
-
-Providing reminders and notifications to keep them on track.
-
-Allowing them to track progress and goals, so they can see improvements over time.
-
-Offering a simple, easy-to-use interface that reduces distractions and encourages consistent study habits.
+- Letting students create personalized study schedules for each subject.
+- Providing reminders and notifications to keep them on track.
+- Allowing them to track progress and goals, so they can see improvements over time.
+- Offering a simple, easy-to-use interface that reduces distractions and encourages consistent study habits.
 
 ---
 
@@ -41,25 +38,19 @@ Offering a simple, easy-to-use interface that reduces distractions and encourage
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, CSS]
-- Frameworks used: [e.g., Database, frontend,]
-- Libraries used: [e.g., gemini]
-- Tools used: [e.g., VS Code, ChatGPT]
-
-**For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
+- Languages used: JavaScript, HTML, CSS
+- Frameworks used: React.js (frontend), Node.js & Express.js (backend)
+- Libraries used: Firebase, Moment.js
+- Tools used: VS Code, Git, ChatGPT
 
 ---
 
 ## Features
 
-List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Personalized study schedule creation for each subject
+- Reminders and notifications to improve focus
+- Progress tracking and goal management
+- Simple, distraction-free interface for better productivity
 
 ---
 
@@ -69,84 +60,68 @@ List the key features of your project:
 
 #### Installation
 ```bash
-[Installation commands - e.g., npm install, pip install -r requirements.txt]
+npm install
 ```
-
-#### Run
-```bash
-[Run commands - e.g., npm start, python app.py]
-```
+Run ``` npm start ```
 
 ## Project Documentation
 
 ### For Software:
+##### Screenshots (Add at least 3)
 
-#### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+Dashboard showing daily schedule and progress tracking
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+Reminder and notification system to keep students on track
+
+
+Progress tracking view for completed tasks and goals
 
 #### Diagrams
 
-**System Architecture:**
+## System Architecture:
 
-![Architecture Diagram](docs/architecture.png)
-*Explain your system architecture - components, data flow, tech stack interaction*
 
-**Application Workflow:**
+Illustrates the interaction between frontend, backend, database, and notifications
 
-![Workflow](docs/workflow.png)
-*Add caption explaining your workflow*
+## Application Workflow:
 
----
+
+Shows how a user creates a schedule, receives reminders, and tracks progress
 
 ## Project Demo
+Video
 
-### Video
-[Add your demo video link here - YouTube, Google Drive, etc.]
+[Add your demo video link here]
 
-*Explain what the video demonstrates - key features, user flow, technical highlights*
+Demonstrates key features, user workflow, and technical highlights of Focus Flow
 
-## AI Tools Used (Optional - For Transparency Bonus)
+## AI Tools Used (Optional)
 
-If you used AI tools during development, document them here for transparency:
+### Tool Used: ChatGPT
+Purpose: Assistance in writing boilerplate code, debugging, and README generation
+Key Prompts Used:
 
-**Tool Used:** [e.g., GitHub Copilot, v0.dev, Cursor, ChatGPT, Claude]
+"Create a React component for a study schedule dashboard"
 
-**Purpose:** [What you used it for]
-- Example: "Generated boilerplate React components"
-- Example: "Debugging assistance for async functions"
-- Example: "Code review and optimization suggestions"
+"Explain progress tracking logic for a student planner app"
+Percentage of AI-generated code: ~10%
 
-**Key Prompts Used:**
-- "Create a REST API endpoint for user authentication"
-- "Debug this async function that's causing race conditions"
-- "Optimize this database query for better performance"
+### Human Contributions:
 
-**Percentage of AI-generated code:** [Approximately X%]
+Architecture design and planning
 
-**Human Contributions:**
-- Architecture design and planning
-- Custom business logic implementation
-- Integration and testing
-- UI/UX design decisions
+Custom business logic implementation
 
-*Note: Proper documentation of AI usage demonstrates transparency and earns bonus points in evaluation!*
+Integration and testing
 
----
+UI/UX design decisions
 
 ## Team Contributions
 
-- [Name 1]: [Specific contributions - e.g., Frontend development, API integration, etc.]
-- [Name 2]: [Specific contributions - e.g., Backend development, Database design, etc.]
-- [Name 3]: [Specific contributions - e.g., UI/UX design, Testing, Documentation, etc.]
+Ajna V Angel: Frontend development, UI/UX design, README & documentation
 
-
+Kavya AS: Backend development, database setup, notifications system
 
 Made with ❤️ at TinkerHub
