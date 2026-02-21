@@ -13,7 +13,7 @@
 - Member 2: Kavya AS - Lourdes Matha College of Science and Technology
 
 ### Hosted Project Link
-[Add your hosted project link here]
+(https://tink-her-hack-temp-eta.vercel.app/)
 
 ### Project Description
 Focus Flow is a smart study planner designed to help students organize their daily study schedules efficiently. It enables users to set goals, manage subjects, track progress, and receive timely reminders to improve focus, productivity, and academic performance.
