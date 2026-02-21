@@ -2,27 +2,37 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# Study Planner 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: Code and Coffee
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: Ajna V Angel - Lurdes Matha College of Science and Technology
+- Member 2: Kavya AS -  Lurdes Matha College of Science and Technology
 
 ### Hosted Project Link
 [mention your project hosted link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+Focus Flow is a smart study planner designed to help students organize their daily study schedules efficiently. It enables users to set goals, manage subjects, track progress, and receive timely reminders to improve focus, productivity, and academic performance.
 
 ### The Problem statement
-[What problem are you solving?]
+Many students struggle with poor time management, lack of focus, and unorganized study schedules, which leads to stress, procrastination, and low productivity. Existing tools are either too complex or not specifically designed for students’ academic needs.
+
+Focus Flow solves this by providing a simple, structured, and student-friendly study planning system that helps them manage subjects, track progress, and stay consistent. 💛📚
 
 ### The Solution
-[How are you solving it?]
+Focus Flow solves the problem by:
+
+Letting students create personalized study schedules for each subject.
+
+Providing reminders and notifications to keep them on track.
+
+Allowing them to track progress and goals, so they can see improvements over time.
+
+Offering a simple, easy-to-use interface that reduces distractions and encourages consistent study habits.
 
 ---
 
@@ -31,10 +41,10 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used: [e.g., JavaScript, Python, CSS]
+- Frameworks used: [e.g., Database, frontend,]
+- Libraries used: [e.g., gemini]
+- Tools used: [e.g., VS Code, ChatGPT]
 
 **For Hardware:**
 - Main components: [List main components]
