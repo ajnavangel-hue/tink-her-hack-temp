@@ -93,7 +93,7 @@ Shows how a user creates a schedule, receives reminders, and tracks progress
 ## Project Demo
 Video
 
-[Add your demo video link here]
+[https://www.loom.com/share/87a093b25ec94a89b5c1361ad4c16fb5]
 
 Demonstrates key features, user workflow, and technical highlights of Focus Flow
 
